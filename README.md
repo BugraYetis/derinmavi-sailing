@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Derinmavi
+# ⛵ Derinmavi
 
 **Kurumsal Site · Yelken Okulu**
 
